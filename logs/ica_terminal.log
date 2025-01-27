@@ -1,0 +1,7 @@
+2025-01-09 00:30:51,422 - root - ERROR - Contracts menu error: 'ICATerminal' object has no attribute 'web_designer_options'
+2025-01-09 12:15:17,131 - root - ERROR - Main menu error: 'ICATerminal' object has no attribute 'contracts_menu'
+2025-01-09 12:15:20,562 - root - ERROR - Main menu error: 'ICATerminal' object has no attribute 'contracts_menu'
+2025-01-09 12:15:24,944 - root - ERROR - Main menu error: 'ICATerminal' object has no attribute 'contracts_menu'
+2025-01-09 12:15:29,054 - root - ERROR - Main menu error: 'ICATerminal' object has no attribute 'contracts_menu'
+2025-01-09 12:15:33,493 - root - ERROR - Main menu error: 'ICATerminal' object has no attribute 'contracts_menu'
+2025-01-09 12:15:38,458 - root - ERROR - Main menu error: 'ICATerminal' object has no attribute 'contracts_menu'
